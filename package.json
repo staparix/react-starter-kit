@@ -1,0 +1,38 @@
+{
+  "name": "rsk",
+  "version": "1.0.0",
+  "description": "React starte kit",
+  "main": "index.js",
+  "scripts": {
+    "build:dev": "webpack",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staparix/react-starter-kit.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "redux-saga",
+    "react-router",    "lodash",
+    "scss",
+    "webpack",
+    "2.0"
+  ],
+  "author": "Aigars Beinarovichs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staparix/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/staparix/react-starter-kit#readme",
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "15.0.13",
+    "ts-loader": "^2.0.1",
+    "webpack": "2.2.1"
+  }
+}
